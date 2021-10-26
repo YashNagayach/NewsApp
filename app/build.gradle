@@ -11,7 +11,7 @@ credentialProperty.load(new FileInputStream(credentialFile))
 android {
     compileSdkVersion androidCompileSdkVersion
     defaultConfig {
-        applicationId "com.akshay.newsapp"
+        applicationId "com.yash.newsapp"
         minSdkVersion androidMinSdkVersion
         versionCode 4
         versionName "3.0.0"
